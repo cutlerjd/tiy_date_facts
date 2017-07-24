@@ -5,5 +5,5 @@ In this project, you will use two packages from NPM and make a script that gives
 
 When your script runs, it should look at the current date and time and print output that looks like the following.
 
-![Alt Text](date-facts-output.png?raw=true)
+![Alt Text](date-facts-out.png?raw=true)
 Your colors may vary because of your terminal colors.
