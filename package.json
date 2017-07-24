@@ -1,0 +1,12 @@
+{
+  "name": "daily-date-facts",
+  "version": "1.0.0",
+  "description": "Show date facts",
+  "main": "index.js",
+  "author": "Jase Cutler <jasecutler@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "moment": "^2.18.1"
+  }
+}
